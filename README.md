@@ -41,5 +41,5 @@ For example
 {"model_name": "your trained model name"}
 
 
-(Just I want to mention that this is just a for self learning and I am planning add new features)
+(Just I want to mention that this is just a for self learning and I am planning add new features.  I don't use validation set, because this is learning project.)
 
